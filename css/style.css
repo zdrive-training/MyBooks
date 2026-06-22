@@ -8,3 +8,12 @@
 	display: inline-block;
 	margin-right: 1em;
 }
+
+.login-input {
+	border: 1px solid #333;
+}
+
+.login-button {
+	background: #000;
+	color: #fff;
+}
