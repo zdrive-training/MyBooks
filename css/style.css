@@ -1,10 +1,19 @@
 @charset "UTF-8";
 
 .error {
-	color: #f00;
+  color: #f00;
 }
 
 .news_target span {
-	display: inline-block;
-	margin-right: 1em;
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.login-input {
+  border: 1px solid #000;
+}
+
+.login-button {
+  background: #000;
+  color: #fff;
 }
